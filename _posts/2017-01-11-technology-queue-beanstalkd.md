@@ -47,9 +47,11 @@ Beanstalkd设计里面的核心概念：
 ## 安装
 
 ###### MacOS
-    
-    `brew install beanstalkd`
-    
+
+    ```
+    brew install beanstalkd
+    ```
+
 ###### Linux-编译
 
 1.安装libevent（[点击我](https://github.com/izhangmai/queue/blob/master/beanstalkd/package/beanstalkd-1.10.tar)）
