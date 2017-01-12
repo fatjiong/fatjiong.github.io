@@ -48,9 +48,7 @@ Beanstalkd设计里面的核心概念：
 
 ###### MacOS
 
-    ```
     brew install beanstalkd
-    ```
 
 ###### Linux-编译
 
