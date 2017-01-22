@@ -90,7 +90,11 @@ apt-get install docker
    
 ###### Liunx
    
-   service docker start
+   
+```
+    service docker start
+
+```
 
 ###### windows
   
