@@ -7,7 +7,7 @@
 
 # Site settings
 title: 胖纸囧
-brief-intro: PHP是全球最好的编程语言!
+brief-intro: PHP/Go/Python是全球最好的编程语言!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fatjiong.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username: 胖纸囧
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: 本站记录撸码之旅的沿途风景！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
