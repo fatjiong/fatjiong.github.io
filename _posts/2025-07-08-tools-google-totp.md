@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "【工具】使用GoogleTotp算法"
-categories: 技术
-tags:  Queue Beanstalked
+categories: 工具
+tags:  TOTP工具
 author: 胖纸囧
 ---
 
